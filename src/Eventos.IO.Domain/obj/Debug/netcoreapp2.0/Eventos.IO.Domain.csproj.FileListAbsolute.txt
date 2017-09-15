@@ -1,0 +1,4 @@
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.csprojResolveAssemblyReference.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.csproj.CoreCompileInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.AssemblyInfoInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netcoreapp2.0\Eventos.IO.Domain.AssemblyInfo.cs

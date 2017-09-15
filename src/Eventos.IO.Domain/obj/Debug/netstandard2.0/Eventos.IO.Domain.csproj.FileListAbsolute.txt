@@ -1,0 +1,11 @@
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard2.0\Eventos.IO.Domain.deps.json
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard2.0\Eventos.IO.Domain.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard2.0\Eventos.IO.Domain.pdb
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.csprojResolveAssemblyReference.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.csproj.CoreCompileInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.AssemblyInfoInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.AssemblyInfo.cs
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Domain\obj\Debug\netstandard2.0\Eventos.IO.Domain.pdb

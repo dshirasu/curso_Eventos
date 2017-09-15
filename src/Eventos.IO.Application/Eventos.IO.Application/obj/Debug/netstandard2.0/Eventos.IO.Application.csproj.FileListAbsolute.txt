@@ -1,0 +1,13 @@
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.deps.json
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Application.pdb
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Domain.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\bin\Debug\netstandard2.0\Eventos.IO.Domain.pdb
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.csprojResolveAssemblyReference.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.csproj.CoreCompileInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.AssemblyInfoInputs.cache
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.AssemblyInfo.cs
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.dll
+C:\Curso\Eventos.IO\src\Eventos.IO.Application\Eventos.IO.Application\obj\Debug\netstandard2.0\Eventos.IO.Application.pdb
