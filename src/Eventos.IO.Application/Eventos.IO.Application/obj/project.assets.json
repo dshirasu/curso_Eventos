@@ -4283,11 +4283,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Application\\Eventos.IO.Application\\Eventos.IO.Application.csproj",
+      "projectUniqueName": "C:\\Curso\\Eventos\\src\\Eventos.IO.Application\\Eventos.IO.Application\\Eventos.IO.Application.csproj",
       "projectName": "Eventos.IO.Application",
-      "projectPath": "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Application\\Eventos.IO.Application\\Eventos.IO.Application.csproj",
+      "projectPath": "C:\\Curso\\Eventos\\src\\Eventos.IO.Application\\Eventos.IO.Application\\Eventos.IO.Application.csproj",
       "packagesPath": "C:\\Users\\NovaTela\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Application\\Eventos.IO.Application\\obj\\",
+      "outputPath": "C:\\Curso\\Eventos\\src\\Eventos.IO.Application\\Eventos.IO.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4306,11 +4306,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Domain\\Eventos.IO.Domain.csproj": {
-              "projectPath": "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Domain\\Eventos.IO.Domain.csproj"
+            "C:\\Curso\\Eventos\\src\\Eventos.IO.Domain\\Eventos.IO.Domain.csproj": {
+              "projectPath": "C:\\Curso\\Eventos\\src\\Eventos.IO.Domain\\Eventos.IO.Domain.csproj"
             },
-            "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj": {
-              "projectPath": "C:\\Curso\\Eventos.IO\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj"
+            "C:\\Curso\\Eventos\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj": {
+              "projectPath": "C:\\Curso\\Eventos\\src\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj"
             }
           }
         }
